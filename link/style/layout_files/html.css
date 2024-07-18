@@ -1,0 +1,37 @@
+<style="text/css">
+.hello{
+}
+a{
+	font-size:20px;
+	background:lightgreen;
+	border:1px solid black;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+}
+.h{
+	background:gray;
+	border:1px solid red;
+	border-radius:10px;
+	margin-top:2%;
+	width:35%;
+	margin-left:2%;
+}
+p{
+	margin-left:6%;
+	padding:10px 20px;
+}
+a{
+	margin-left:7%;
+	background:lightgreen;
+	border:1px solid red;
+	border-radius:10px;
+	width:20%;
+	padding:5px;
+	color:black;
+	text-decoration:none;
+}
+body{
+	background:lightgray;
+}
+</style>
